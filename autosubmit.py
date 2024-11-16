@@ -6,7 +6,7 @@ import time
 import io
 
 # Service account key file (replace with your path)
-SERVICE_ACCOUNT_FILE = 'path/to/service_account_key.json'
+SERVICE_ACCOUNT_FILE = 'PATH'
 SCOPES = ['https://www.googleapis.com/auth/drive']
 
 # Folder ID of the shared Google Drive folder
